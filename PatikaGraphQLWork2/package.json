@@ -1,0 +1,19 @@
+{
+  "name": "patikagraphqlwork1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.2",
+    "apollo-server-core": "^3.6.2",
+    "graphql": "^16.3.0",
+    "nano-id": "^1.1.0",
+    "nodemon": "^2.0.15"
+  }
+}
